@@ -140,9 +140,9 @@
 };
 
 &q6afedai {
-	dai@127 {
+	dai@22 {
 		reg = <QUATERNARY_MI2S_RX>;
-		qcom,sd-lines = <0 1>;
+		qcom,sd-lines = <0>;
 	};
 };
 
