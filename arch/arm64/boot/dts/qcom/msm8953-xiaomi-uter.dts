@@ -134,6 +134,7 @@
 
 &panel {
 	compatible = "xiaomi,uter-panel";
+	rotation = <180>;
 };
 
 &q6afedai {
