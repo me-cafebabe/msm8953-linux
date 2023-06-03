@@ -75,9 +75,9 @@
 			no-map;
 		};
 
-		ramoops@9ff00000 {
+		ramoops@b0000000 {
 			compatible = "ramoops";
-			reg = <0x0 0x9ff00000 0x0 0x00100000>;
+			reg = <0x0 0xb0000000 0x0 0x00100000>;
 			record-size = <0x1000>;
 			console-size = <0x80000>;
 			ftrace-size = <0x1000>;
