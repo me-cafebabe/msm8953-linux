@@ -60,7 +60,7 @@
 	};
 
 	reserved-memory {
-		qseecom_mem: qseecom@84a00000 {
+		qseecom_mem: qseecom@83300000 {
 			reg = <0x0 0x83300000 0x0 0x3800000>;
 			no-map;
 		};
