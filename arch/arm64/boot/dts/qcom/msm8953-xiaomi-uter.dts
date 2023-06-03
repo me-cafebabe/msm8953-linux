@@ -196,7 +196,7 @@
 };
 
 &tlmm {
-	gpio-reserved-ranges = <0 4>, <96 4>, <135 4>;
+	gpio-reserved-ranges = <0 4>, <96 4>;
 
 	gpio_hall_sensor_default: gpio-hall-sensor-state {
 		pins = "gpio131";
