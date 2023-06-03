@@ -126,6 +126,10 @@
 	voltage-max-design-microvolt = <4400000>;
 };
 
+&i2c_2 {
+	clock-frequency = <400000>;
+};
+
 &max98927_codec {
 	status = "okay";
 
