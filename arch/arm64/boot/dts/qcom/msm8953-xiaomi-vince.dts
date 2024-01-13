@@ -125,7 +125,7 @@
 };
 
 &panel {
-	compatible = "xiaomi,vince-panel";
+	compatible = "xiaomi,td4310-fhdplus-e7";
 };
 
 &pmi8950_wled {
